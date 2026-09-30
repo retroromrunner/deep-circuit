@@ -8,6 +8,8 @@ A retro raycaster dungeon crawler for the web. You are **RETROROM**, diving proc
 
 No build step, no dependencies — just open the link in any modern browser, desktop or mobile.
 
+![Diving a mainframe sector in DEEP CIRCUIT](screenshot.png)
+
 ## The mission
 
 Each sector's uplink is firewalled. Collect **3 ACCESS SHARDS** to unlock it and descend deeper. Salvage **RAM, GPUs, and SSDs** as upgrades. Fight off **viruses, worms, trojans, and daemons**. Your hi-score persists in the browser — how deep can you go?
